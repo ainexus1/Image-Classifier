@@ -2,7 +2,7 @@
 
 This repository contains an image classifier built using deep learning techniques. The model is trained to classify images into specific categories or labels, making it a valuable tool for a wide range of applications.
 
-#Key Features:
+Key Features:
 
 Deep Learning Model: The image classifier is powered by a deep learning model, which has been trained on a diverse dataset.
 Easy-to-Use: The classifier is user-friendly and can be easily integrated into your own projects or applications.
